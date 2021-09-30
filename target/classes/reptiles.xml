@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reptiles>
+    <crocodiles>
+        <crocodile name="Alligator" age ="2" poisonous = "false"/>
+        <crocodile name="Caiman" age ="3" poisonous = "false"/>
+        <crocodile name="Gavial" age ="5" poisonous = "false"/>
+        <crocodile name="African" age ="7" poisonous = "false"/>
+    </crocodiles>
+    <turtles>
+        <turtle name="Asian" age ="15" poisonous = "false"/>
+        <turtle name="Egyptian" age ="12" poisonous = "false"/>
+        <turtle name="Swamp" age ="9" poisonous = "false"/>
+        <turtle name="Red-eared" age ="25" poisonous = "false"/>
+    </turtles>
+    <lizards>
+        <lizard name="Monitor" age ="15" poisonous = "false"/>
+        <lizard name="Gecko" age ="12" poisonous = "false"/>
+        <lizard name="Iguana" age ="9" poisonous = "false"/>
+        <lizard name="Chameleon" age ="25" poisonous = "false"/>
+    </lizards>
+    <snakes>
+        <snake name="Cobra" age ="3" poisonous = "true"/>
+        <snake name="Black Mamba" age ="1" poisonous = "true"/>
+        <snake name="Anaconda" age ="7" poisonous = "false"/>
+        <snake name="Python" age ="4" poisonous = "false"/>
+        <snake name="Efa" age ="5" poisonous = "true"/>
+    </snakes>
+</reptiles>
