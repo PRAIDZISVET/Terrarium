@@ -1,9 +1,15 @@
 package by.epam.training.model;
 
+import javax.xml.bind.annotation.XmlElement;
+
+
 public abstract class Reptile {
 
+
     private String name;
+
     private int age;
+
     private boolean isPoisonous;
 
 
@@ -16,6 +22,7 @@ public abstract class Reptile {
         this.isPoisonous = isPoisonous;
     }
 
+    @XmlElement(name = "reptileName")
     public String getName() {
         return name;
     }
@@ -24,6 +31,7 @@ public abstract class Reptile {
         this.name = name;
     }
 
+    @XmlElement(name = "age")
     public int getAge() {
         return age;
     }
@@ -32,6 +40,7 @@ public abstract class Reptile {
         this.age = age;
     }
 
+    @XmlElement(name = "poisonous")
     public boolean isPoisonous() {
         return isPoisonous;
     }
@@ -42,7 +51,7 @@ public abstract class Reptile {
 
     @Override
     public String toString() {
-        return  "name='" + name + '\'' +
+        return "name='" + name + '\'' +
                 ", age=" + age +
                 ", isPoisonous=" + isPoisonous +
                 '}';

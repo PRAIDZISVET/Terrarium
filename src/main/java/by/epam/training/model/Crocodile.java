@@ -1,5 +1,9 @@
 package by.epam.training.model;
 
+
+import javax.xml.bind.annotation.XmlType;
+
+@XmlType(name = "Crocodile")
 public class Crocodile extends Reptile {
 
     public Crocodile() {

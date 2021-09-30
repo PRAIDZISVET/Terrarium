@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<terrarium>
+    <averageAgePoisonous>0.0</averageAgePoisonous>
+    <countOfPoisonous>0</countOfPoisonous>
+    <terrariumReptiles>
+        <reptile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Snake">
+            <age>7</age>
+            <reptileName>Anaconda</reptileName>
+            <poisonous>false</poisonous>
+        </reptile>
+        <reptile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Turtle">
+            <age>9</age>
+            <reptileName>Swamp</reptileName>
+            <poisonous>false</poisonous>
+        </reptile>
+        <reptile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Turtle">
+            <age>15</age>
+            <reptileName>Asian</reptileName>
+            <poisonous>false</poisonous>
+        </reptile>
+        <reptile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Lizard">
+            <age>9</age>
+            <reptileName>Iguana</reptileName>
+            <poisonous>false</poisonous>
+        </reptile>
+        <reptile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Crocodile">
+            <age>2</age>
+            <reptileName>Alligator</reptileName>
+            <poisonous>false</poisonous>
+        </reptile>
+    </terrariumReptiles>
+</terrarium>

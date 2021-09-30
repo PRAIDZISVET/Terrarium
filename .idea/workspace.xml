@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e479189-656b-4b6d-b438-b7eaebfc200d" name="Default Changelist" comment="" />
+    <list default="true" id="7e479189-656b-4b6d-b438-b7eaebfc200d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/epam/training/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/epam/training/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Crocodile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Lizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Lizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Reptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Reptile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/epam/training/model/Turtle.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ypnYWToL06xaGxYXe8pr4Ruqi6" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -69,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632957444811</updated>
       <workItem from="1632957452133" duration="10238000" />
+      <workItem from="1632994851070" duration="106000" />
     </task>
     <servers />
   </component>
